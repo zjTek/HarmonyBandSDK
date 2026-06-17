@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HarmonyBand SDK demo app",
+  "main": "",
+  "author": "powerband",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ble": "file:../ble"
+  }
+}

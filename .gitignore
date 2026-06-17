@@ -1,0 +1,15 @@
+/node_modules/
+/oh_modules/
+/local.properties
+/.idea/
+/.hvigor/
+/build/
+**/build/
+/.preview/
+/captures/
+/.cxx/
+**/.DS_Store
+*.hap
+*.app
+*.hsp
+lib_rcsp/lib/*.har

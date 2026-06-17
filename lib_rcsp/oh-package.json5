@@ -1,0 +1,13 @@
+{
+  "name": "lib_rcsp",
+  "version": "1.0.1",
+  "description": "Jieli RCSP/OTA/Auth HAR wrapper for PowerBand SDK",
+  "main": "Index.ets",
+  "author": "powerband",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jl-ota": "file:./lib/JL_OTA_1.0.1-release.har",
+    "jl-rcsp": "file:./lib/JL_RCSP_1.0.1-release.har",
+    "jl-auth": "file:./lib/JL_Auth_1.0.1-release.har"
+  }
+}

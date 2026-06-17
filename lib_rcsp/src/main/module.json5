@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "lib_rcsp",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "phone",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

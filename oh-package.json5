@@ -1,0 +1,6 @@
+{
+  "modelVersion": "6.0.0",
+  "description": "HarmonyBandSdK - HarmonyOS BLE SDK for PowerBand smart bands",
+  "dependencies": {},
+  "devDependencies": {}
+}

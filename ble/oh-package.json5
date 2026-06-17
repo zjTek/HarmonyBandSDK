@@ -1,0 +1,11 @@
+{
+  "name": "ble",
+  "version": "1.0.4",
+  "description": "PowerBand HarmonyOS BLE SDK",
+  "main": "Index.ets",
+  "author": "powerband",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lib_rcsp": "file:../lib_rcsp"
+  }
+}

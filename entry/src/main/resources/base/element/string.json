@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyBand SDK Demo"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyBand SDK Demo"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Band SDK Demo"
+    },
+    {
+      "name": "permission_bluetooth_reason",
+      "value": "Required to scan and connect to PowerBand devices"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "Required for BLE device discovery on some devices"
+    }
+  ]
+}
